@@ -13,7 +13,7 @@ const Navbar = () => {
 			<div className='n-right'>
 				<div className='n-list'>
 					<ul style={{ listStyleType: "none" }}>
-						<Link spy={true} to='Navbar' smooth={true}>
+						<Link spy={true} to='Home' smooth={true}>
 							<li>Home</li>
 						</Link>
 						<Link spy={true} to='Services' smooth={true}>
