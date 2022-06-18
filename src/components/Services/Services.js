@@ -18,9 +18,9 @@ const Services = () => {
 					Lorem ipsum, dolor sit amet consectetur adipisicing elit
 					<br /> Voluptate, iusto.
 				</span>
-				<a href='#' download>
-					<button className='button s-button'>Download CV</button>
-				</a>
+
+				<button className='button s-button'>Download CV</button>
+
 				<div
 					className='blur s-blue'
 					style={{ background: "#ABF1FF49" }}
