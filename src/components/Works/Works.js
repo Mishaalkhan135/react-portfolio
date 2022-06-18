@@ -21,9 +21,7 @@ const Works = () => {
 					<br />
 					Lorem ipsum, dolor sit amet consectetur
 				</span>
-				<a href='#' download>
-					<button className='button s-button'>Hire Me</button>
-				</a>
+				<button className='button s-button'>Hire Me</button>
 				<div
 					className='blur s-blue'
 					style={{ background: "#ABF1FF49" }}
