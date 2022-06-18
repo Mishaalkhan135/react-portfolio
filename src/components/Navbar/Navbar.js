@@ -2,10 +2,7 @@ import React from "react";
 import Toogle from "../Toogle/Toogle";
 import "./Navbar.css";
 import { Link } from "react-scroll";
-import Services from "../Services/Services";
-import Experience from "../Experience/Experience";
-import Portfolio from "../Portfolio/Portfolio";
-import Testimonials from "../Testimonials/Testimonials";
+
 const Navbar = () => {
 	return (
 		<div className='n-wrapper'>
